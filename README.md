@@ -4,6 +4,8 @@ sudo mv maquina1.conf /etc/wireguard/wg0.conf
 sudo wg-quick up wg0
 ping 10.8.0.x
 caso for linux essa é uma das configurações 
+
+
 ✔️ Passo 1 — Instalar o WireGuard no Windows
 
 Baixe o instalador oficial:
