@@ -7,7 +7,7 @@ sudo wg-quick up wg0
 
 ping 10.8.0.x
 
-no terminal vscode
+no terminal vscode 
 
 caso for linux essa é uma das configurações 
 
